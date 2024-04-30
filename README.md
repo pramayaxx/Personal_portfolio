@@ -3,7 +3,7 @@
 
 :star: Star me on GitHub — it helps!
 
-> https://ashlynn.github.io
+> [https://ashlynn.github.io](https://itz-ashlynn.github.io/ashlynn.github.io/)
 
 ![GitHub stars](https://img.shields.io/github/stars/Itz-Ashlynn/ashlynn.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/Itz-Ashlynn/ashlynn.github.io)
