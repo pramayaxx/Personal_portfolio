@@ -278,7 +278,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 0;
   top: 0;
   right: 0;
-  background: #09203a;
+  background: #151515;
 }
 
 #header.header-top .social-links, #header.header-top h2 {
@@ -484,7 +484,7 @@ section .container {
   display: flex;
   align-items: center;
   padding: 20px;
-  background: #09203a;
+  background: #181819;
   transition: ease-in-out 0.3s;
 }
 
@@ -505,7 +505,7 @@ section .container {
 }
 
 .interests .icon-box:hover {
-  background: #042b56eb;
+  background: #181819;
 }
 
 /*--------------------------------------------------------------
@@ -896,7 +896,7 @@ section .container {
   color: #444444;
   padding: 20px;
   width: 100%;
-  background: #09203a;
+  background: #181819;
 }
 
 .contact .info-box i.bx {
