@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  transition: ease-in-out 0.3s;
+  transition: ease-in-out 0.4s;
   position: relative;
   height: 100vh;
   display: flex;
@@ -62,7 +62,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header * {
-  transition: ease-in-out 0.3s;
+  transition: ease-in-out 0.4s;
 }
 
 #header h1 {
@@ -319,14 +319,15 @@ section {
   top: 140px;
   bottom: 100%;
   opacity: 0;
+  transition: ease-in-out 0.4s;
   z-index: 2;
 }
 
 section.section-show {
-  top: 70px;
+  top: 100px;
   bottom: auto;
   opacity: 1;
-  padding-bottom: 0px;
+  padding-bottom: 45px;
 }
 
 section .container {
