@@ -14,15 +14,15 @@
 
 ### Website Preview
 #### Home Page
-<img src="website_images/HomePage.png" width="900">
+<img src="website_images/Homepage.gif" width="900">
 
 
 #### About Page
-<img src="website_images/AboutPage.png" width="900">
+<img src="website_images/AboutpageSS.png" width="900">
 
 
-#### Experience Page
-<img src="website_images/ExperiencePage.png" width="900">
+#### Project Page
+<img src="website_images/project.png" width="900">
   
 
 
