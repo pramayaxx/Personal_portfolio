@@ -60,6 +60,18 @@
 ## Tools Used 🛠️
 * <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
 
+### Need help?
+
+```
+
+  if (needHelp === true) {
+     var emailId = "aarabhofficial@gmail.com";
+     // email is the best way to reach out to me.
+     sendEmail(emailId);
+  }
+
+```
+
 ## Contributing 💡
 #### Step 1
 
