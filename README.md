@@ -5,9 +5,9 @@
 
 :star: Star me on GitHub — it helps!
 
-> [Click Here To See.]](https://itz-ashlynn.github.io/Personal_portfolio/)
+> [click here to see](https://itz-ashlynn.github.io/Personal_portfolio/)
 
-![GitHub stars](https://img.shields.io/github/stars/Itz-Ashlynn/Personal_portfolio) 
+![GitHub stars](https://img.shields.io/github/stars/Itz-Ashlynn/Personal_portfolio/) 
 ![GitHub forks](https://img.shields.io/github/forks/Itz-Ashlynn/Personal_portfolio/)
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/Itz-Ashlynn/Personal_portfolio/commits/master)
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://Personal_portfolio/)
