@@ -672,47 +672,33 @@
         </div>
       </div>
       
-<!-- form -->
-<!-- <form name="form" id="contactForm" method="POST" action="https://formspree.io/f/mleqqdjv">
-      			<fieldset>
-                    <div class="form-field">
- 				<input name="name" type="text" id="contactName" placeholder="Name" value="" minlength="2" required="">
-                    </div>
-                    <div class="form-field">
-				<input name="_replyto" type="email" id="contactEmail" placeholder="Email" value="" required="">
-	                </div>
-                    <div class="form-field">
-				<input name="_subject" type="text" id="contactSubject" placeholder="Subject" value="">
-	                </div>                       
-                    <div class="form-field">
-	                 	<textarea name="message" id="contactMessage" placeholder="message" rows="10" cols="50" required=""></textarea>
-	                </div>                      
-                    <div class="form-field">
-                        <button class="submitform" name="submit">Submit</button>
-                        <div id="submit-loader">
-			    <div class="text-loader">Sending...</div>                             
-       				  <div class="s-loader">
-					<div class="bounce1"></div>
-					<div class="bounce2"></div>
-					<div class="bounce3"></div>
-				    </div>
-			</div>
-                    </div>
+      <form action="https://formspree.io/f/mleqqdjv" method="post" role="form" class="">
+        <div class="row">
+          <div class="col-md-6 form-group">
+            <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+          </div>
+          <div class="col-md-6 form-group mt-3 mt-md-0">
+            <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+          </div>
+        </div>
+        <div class="form-group mt-3">
+          <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+        </div>
+        <div class="form-group mt-3">
+          <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+        </div>
+        <div class="my-3">
+          <div class="loading">Loading</div>
+          <div class="error-message"></div>
+          <div class="sent-message">Your message has been sent. Thank you!</div>
+        </div>
+        <div class="text-center"><button type="submit">Send Message</button></div>
+      </form>
 
-	</fieldset>
-</form>
-
-            <!-- contact-warning -->
-<div id="message-warning">            	
-            </div> 
-            <!-- contact-success -->
-<div id="message-success">
-               <i class="fa fa-check"></i>Your message was sent, thank you!<br>
-      		</div> -->
-
-
-
-  <!-- End Contact Section -->
+    </div>
+  </section>
+	
+<!-- End Contact Section -->
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/jquery/jquery.min.js"></script>
